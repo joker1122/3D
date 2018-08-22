@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">3D</string>
+
+    <!--Actions-->
+    <string name="action_left">ActionLeft</string>
+    <string name="action_up">ActionUp</string>
+    <string name="action_right">ActionRight</string>
+    <string name="action_down">ActionDown</string>
+</resources>
